@@ -1,0 +1,11 @@
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\bin\Debug\NortWndToXML.exe.config
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\bin\Debug\NortWndToXML.exe
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\bin\Debug\NortWndToXML.pdb
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\bin\Debug\DataAccessLayer.dll
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\bin\Debug\DataAccessLayer.pdb
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\obj\Debug\NortWndToXML.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\obj\Debug\NortWndToXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\obj\Debug\NortWndToXML.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\obj\Debug\NortWndToXML.csproj.CopyComplete
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\obj\Debug\NortWndToXML.exe
+C:\Users\toshiba\source\repos\NortWndToXML\NortWndToXML\obj\Debug\NortWndToXML.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NortWndToXML", "NortWndToXML\NortWndToXML.csproj", "{0715C16C-CE82-4861-B436-2EECC8B83404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{891228E9-DF88-4DE5-838E-A3CDC28E72FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0715C16C-CE82-4861-B436-2EECC8B83404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0715C16C-CE82-4861-B436-2EECC8B83404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0715C16C-CE82-4861-B436-2EECC8B83404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0715C16C-CE82-4861-B436-2EECC8B83404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891228E9-DF88-4DE5-838E-A3CDC28E72FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891228E9-DF88-4DE5-838E-A3CDC28E72FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891228E9-DF88-4DE5-838E-A3CDC28E72FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891228E9-DF88-4DE5-838E-A3CDC28E72FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5076FA2F-CA0B-465A-AF92-364FCA1FBD9B}
+	EndGlobalSection
+EndGlobal

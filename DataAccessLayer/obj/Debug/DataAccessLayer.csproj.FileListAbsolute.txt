@@ -1,0 +1,6 @@
+C:\Users\toshiba\source\repos\NortWndToXML\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\toshiba\source\repos\NortWndToXML\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\toshiba\source\repos\NortWndToXML\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\NortWndToXML\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\NortWndToXML\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\toshiba\source\repos\NortWndToXML\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
